@@ -1,0 +1,21 @@
+header {background-color: blueviolet;
+border-color: black;
+border-width:9px;
+border-style: double;
+margin-left: 5%;
+margin-right: 10%;
+}
+main {background-color: blue;
+border-color: rgb(69, 138, 12);
+border-width:7px;
+border-style: dotted;
+margin-left: 5%;
+margin-right: 10%;
+}
+footer{background-color: blueviolet;
+border-color: aqua;
+border-width: 7px;
+border-style: double;
+margin-left: 5%;
+margin-right:10%;
+}
